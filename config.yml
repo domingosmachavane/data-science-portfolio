@@ -1,0 +1,6 @@
+title: "Meu Portfólio de Ciência de Dados"
+author: "Domingos Machavane "
+#logo: "path/to/logo.png"
+description: "text below the image"
+theme: material 
+show_downloads: True
